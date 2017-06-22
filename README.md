@@ -4,3 +4,8 @@ In this project, I will analyze the Red Wine Data and try to understand which va
 
 Table of Contents
 
+1. redWineAnalysis.html - The Final project report with codes and analysis
+
+2. redWineAnalysis.rmd - The R - Markdown file
+
+3. references.txt - List of references.
